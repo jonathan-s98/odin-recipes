@@ -1,0 +1,31 @@
+body {
+    font-family: "Brush Script MT", "Times New Roman", serif;
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 1000;
+    color: #009739;
+    text-align: center;
+}
+
+p,
+ul {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+p {
+    color: navy;
+}
+
+ul.list {
+    display: inline-block;
+    text-align: left;
+}
